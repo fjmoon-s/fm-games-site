@@ -1,0 +1,12 @@
+:root{color-scheme:light dark}
+body{margin:0;background:#f7f4ee;color:#2a2622;font-family:"Hiragino Mincho ProN","Yu Mincho",serif;line-height:1.9}
+@media (prefers-color-scheme:dark){body{background:#0e0d0f;color:#e6dfd2}}
+main{max-width:680px;margin:0 auto;padding:48px 20px 80px}
+h1{font-weight:500;font-size:24px;letter-spacing:.08em;margin:0 0 6px}
+.date{opacity:.6;font-size:13px;margin-bottom:36px}
+h2{font-weight:500;font-size:17px;letter-spacing:.06em;margin:36px 0 10px;border-left:2px solid #d6583c;padding-left:10px}
+p,li{font-size:15px}
+ul{padding-left:1.4em}
+a{color:#d6583c}
+nav{font-size:13px;margin-bottom:28px}
+nav a{margin-right:14px}
